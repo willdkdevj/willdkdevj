@@ -23,6 +23,7 @@ I hope your visit here will be fruitful :neckbeard: be very welcome and feel fre
 
 ## Mi nombre es William Derek! - Analista de Desarrollo de Java
 > Vérsion en Español
+
 Soy un entusiasta de la tecnología: heartbeat: cualquiera que sea el segmento (Informática: informática: Robótica:robot: Aeroespacial:rocket: Automatización Industrial / Residencial:building_construction:), siempre buscando mejorar sus conocimientos para resolver los problemas de las personas con las instalaciones que proporciona.
 
 Soy un científico informático:man_technologist: para que puedas entender por qué soy tan fanático de la tecnología :trollface: He estado trabajando en el área de tecnología durante algún tiempo, esto no significa que sea viejo :skull: actualmente tengo mi enfoque en el desarrollo de aplicaciones JAVA :sunglasses: porque es fascinante ver que algo que has construido cobra vida, yo siente al Dr. Frankstein :zombie_man:.
