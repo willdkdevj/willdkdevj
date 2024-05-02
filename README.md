@@ -1,6 +1,6 @@
 
 # Bem Vindo! Welcome! Bienvenido! 
-<img align="right" width="400" height="300" src="https://drive.google.com/file/d/1tlPdUjq3TRgm93cY1HsCsaLlUhXnt-8y/view?usp=sharing">
+<img align="right" width="400" height="300" src="https://i.pinimg.com/originals/e5/09/cc/e509ccf4e850fefe85d652efd0eb50a1.png">
  
 ## Meu nome é William Derek! 
 > Analista Desenvolvedor Java |  Analista de Sistemas 
