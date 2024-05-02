@@ -1,6 +1,6 @@
 
 # Bem Vindo! Welcome! Bienvenido! 
-<img align="right" width="400" height="300" src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ed5569e8-c0dd-458c-8450-cde6300093bd/File/26d48b7b749c927c6b694ac463e92b22/duke_jetsurf_orig.png">
+<img align="right" width="400" height="300" src="https://www.pngfind.com/pngs/m/204-2048572_file-thumbsup-svg-duke-java-hd-png-download.png">
  
 ## Meu nome é William Derek! 
 > Analista Desenvolvedor Java |  Analista de Sistemas 
